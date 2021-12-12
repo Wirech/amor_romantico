@@ -15,9 +15,12 @@ div.cabecalho {
     text-shadow: black 0.1em 0.1em 0.2em;
     line-height: 38px;
 }
-@media screen and (max-width:768px){
-    html{
-        background-color: black;
+@media screen and (max-width: 768px){
+    div.topico1{
+        height: 1600px;
+    }
+    div.topico3{
+        height: 1800px;
     }
 }
 div.info1{
@@ -219,7 +222,7 @@ button.select:hover{
 button.select:active{
     box-shadow: black inset 0 0 0.2em;
 }
-div.topico1 {
+div.1 {
     background-color: #ffe9f1;
     padding-left: 130px; 
     padding-right: 130px;
