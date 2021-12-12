@@ -17,10 +17,10 @@ div.cabecalho {
 }
 @media screen and (max-width: 768px){
     div.topico1{
-        height: 1600px;
+        height: 1580px;
     }
     div.topico3{
-        height: 1800px;
+        height: 1900px;
     }
 }
 div.info1{
