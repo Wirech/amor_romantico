@@ -15,9 +15,6 @@ div.cabecalho {
     text-shadow: black 0.1em 0.1em 0.2em;
     line-height: 38px;
 }
-@media screen and (max-width: 768px){
-
-}
 div.info1{
     width: 1300px;
     margin-left: -130px;
