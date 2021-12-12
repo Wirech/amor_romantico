@@ -20,8 +20,11 @@ div.cabecalho {
         height: 1700px;
         color: white;
     }
-    #posneg{
+    #prebr{
         height: 1800px;
+    }
+    html{
+        width: 100%;
     }
 }
 div.info1{
