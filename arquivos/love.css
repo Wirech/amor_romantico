@@ -16,9 +16,8 @@ div.cabecalho {
     line-height: 38px;
 }
 @media screen and (max-width: 600px){
-    div.topico1{
-        height: 1700px;
-        color: white;
+    #topic1{
+        height: 1600px;
     }
 }
 div.info1{
