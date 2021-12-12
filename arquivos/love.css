@@ -16,12 +16,7 @@ div.cabecalho {
     line-height: 38px;
 }
 @media screen and (max-width: 768px){
-    div.topico1{
-        height: 1580px;
-    }
-    div.topico3{
-        height: 1900px;
-    }
+
 }
 div.info1{
     width: 1300px;
