@@ -1,0 +1,510 @@
+div.cabecalho {
+    font-family: bebas-neue-pro, sans-serif;
+    font-style: normal;
+    background-image: url(lago\ 3.jpeg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-clip:border-box;
+    font-size: 15px;
+    text-align: center;
+    align-content: center ;
+    height: 340px;
+    padding-top: 90px;
+    color: white;
+    box-shadow: black 0em 0.3em 0.3em;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    line-height: 38px;
+}
+div.info1{
+    width: 1300px;
+    margin-left: -130px;
+}
+#info1_1{
+    float: left;
+    width: 440px ;
+    height: 600px ;
+    margin-right: 10px;
+    margin-left: 250px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    box-shadow: black 0 0 0.1em;
+}
+#info1_2{
+    float: left;
+    width: 440px ;
+    height: 600px ;
+    margin-right: 10px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    box-shadow: black 0 0 0.1em;
+}
+h1.subtitle{
+    font-size: 20px;
+    margin-top: -45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.direita{
+    float: right;
+   
+}
+div.menu{
+    height: 60px;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow: black 0em 0 0.5em;
+}
+button.menu_button{
+    margin-top: 0px;
+    background-color: transparent;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    width: 160px;
+    height: 60px;
+    box-shadow: black  0 0 0.1em;
+    border: none;
+    margin-right: 2px;
+    transition: 1s;
+}
+button.menu_button:hover{
+    background-color: rgba(247, 247, 247, 0.952);
+}
+button.menu_button:active{
+    box-shadow: black inset  0 0 0.2em;
+}
+#logo{
+    width: 60px;
+    height: 60px;
+    float:left;
+    margin-left: 645px;
+}
+
+h1 {
+    display: block;
+    font-size: 36px;
+    font-weight: bold;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+html{
+    margin-top: -8px;
+    width: 1349px;
+    height: 100%;
+    background-color: white;
+}
+div.divim1{
+    float: left;
+    width: 310px;
+    height: 550px;
+    margin-right: 20px;
+
+}
+p.pim1{
+    float: left;
+    font-size: 12px;
+    margin-left: 60px;
+    margin-top: 5px;
+    color: #555555;
+}
+#im1{
+    width: 100%;
+    box-shadow: black 0 0 0.2em;
+}
+#nomedocara{
+    float: right;
+    color:rgba(255, 255, 255, 0.685);
+    margin-right: 15px;
+    margin-top: -80px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+body {
+    background-color: rgb(255, 245, 245);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    width:cover;
+    text-align: justify;
+    line-height: 22px;
+    width: 100%;
+    height: 100%;
+    margin-left: 0px;
+}
+div.botoes{
+    text-align: center;
+
+}
+button {
+    appearance: auto;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    margin: 0em;
+    padding: 0px 0px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+p.idado{
+    width: 300px;
+    color: #2d0f41;
+    margin-left: 45px;
+    border-color: #2d0f41;
+    border-style: solid;
+    border-width: 0px 0px 0px 2px;
+    padding: 10px 15px 10px 15px;
+    height:auto;
+    font-size: 18px;
+}
+div.divimrom{
+    float: left;
+    height: 400px;
+    width: 260px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+p.pimrom{
+    font-size: 12px;
+    color: #555555;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+#romantico{
+    width: 100%;
+    box-shadow: 0 0 0.1em black;
+}
+div.mesc2{
+    float: right;
+}
+button#botaogrande{
+    padding-top: 0px;
+}
+button.select{
+    margin-top: 100px;
+    background-color:#2d0f41ec;
+    width: 180px;
+    border: none;
+    font-size: 11px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgba(255, 255, 255, 0.856);
+    box-shadow: black 0 0 0.2em;
+    border-radius: 1px;
+    transition: 0.3s;
+}
+
+
+button.select:hover{
+    background-color:#230b33;
+}
+button.select:active{
+    box-shadow: black inset 0 0 0.2em;
+}
+div.topico1 {
+    background-color: #ffe9f1;
+    padding-left: 130px; 
+    padding-right: 130px;
+    padding-top: 40px;
+    padding-bottom: 1px;
+    height: 1510px;
+    border-color: rgba(150, 145, 145, 0.76);
+    border-top:  transparent;
+    border-left:  transparent;
+    border-right: transparent;
+    border-bottom: transparent;
+    border-style: solid;
+    margin-bottom: 30px;
+}
+h1.topt{
+    margin-top: 0;
+}
+#im2{
+    float: right;
+    width: 400px;
+    height: 920px;
+    margin-left: 20px;
+    box-shadow: black 0 0 0.1em;
+    margin-bottom: 160px;
+
+}
+
+div.jogar_a_imagem_pra_baixo{
+    margin-bottom: -150px;
+    margin-top:160px;
+}
+p {
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 10px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+div.topico2 {
+    background-color: #F2c1c0;
+    padding-left: 130px; 
+    padding-right: 130px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+div.topico3 {
+    background-color:#ffe9f1;
+    padding-left: 130px; 
+    padding-right: 130px;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    height: 1730px;
+}
+div.topico4 {
+    background-color:  #F2c1c0;
+    padding-left: 130px; 
+    padding-right: 130px;
+    padding-bottom: 40px;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+div.topico5 {
+    background-color: #ffe9f1;
+    padding-top: 30px;
+    color: black;
+    height: 751px;
+
+}
+h1#subref{
+    height: 100px;
+    width: 1300px;
+    margin-top: -150;
+    text-align: center;
+    color: black;
+    font-size: 18px ;
+    
+}
+button.selectalt{
+    margin-top: 100px;
+    background-color:#2d0f41ec;
+    width: 180px;
+    border: none;
+    font-size: 18px;
+    height: 40px;
+    margin-right: 10px;
+    color: white;
+    box-shadow: black 0 0 0.1em;
+    border-radius: 1px;
+    margin-left: -505px;
+}
+div.refb{
+    margin-top: 30px;
+    float: left;
+    width: 220px;
+    border: 0px 2px 0px 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 200px;
+    margin-top: 60px;
+}
+div.refb_2{
+    width: 220px;
+    border: 0px 2px 0px 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 200px;
+    margin-top: 30px;
+    float: left;
+}
+div.idado{
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: justify;
+    width: 450px;
+    height: 140px;
+    line-height: 28px;
+    padding-left: 20px;
+    color:#2d0f41;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 25px;
+    border-width: 2.5px;
+    border-style: solid;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: transparent;
+    border-left-color: #230b33;
+    margin-left: 80px;
+}
+div.refs_2{
+    height: 260px;
+    width: 900;
+    margin-left:425px;
+}
+img.img_ref{
+    width: 100%;
+    height: 100%;
+    box-shadow: black 0 0 0.1em;
+    object-fit: cover;
+    object-position: center;
+}
+div.divimrefs{
+    float: left;
+    width: 160px;
+    height: 160px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+#cupido{
+    object-fit: center;
+    object-position: top;
+}
+div.imbox{
+    background-color: #F2c1c0;
+    height: 220px;
+    float: left;
+    width: 1024px;
+    text-align: center;
+    padding-left: 325px;
+    padding-top: 50px;
+}
+div.refs{
+    height: 260px;
+    width: 1300;
+    margin-left: 27px;
+}
+p.pimrefs{
+    font-size: 12px;
+    color: #555555;
+    line-height: 12px;
+    margin-top: 5px;
+}
+hr{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+img.star{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+div.estrelas{
+    margin: 500px 0 10px 0;
+    text-align: center;
+}
+#hr1{
+    margin-left: -130px;
+    width: 1331px;
+    margin-bottom: 20px;
+}
+#im3{
+    float: left;
+    width: 540px ;
+    height: 740px ;
+    margin-left: 130px;
+    margin-right: 10px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    object-fit: cover;
+    box-shadow: black 0 0 0.1em;
+}
+div.divimlo{
+    float: left;
+}
+p.pimlo{
+    font-size: 12px;
+    color: #555555;
+    margin-top: 3px;
+    margin-left: 40px;
+}
+#lovers{
+    border-radius: 2px;
+    width: 430px;
+    height: 470px;
+    margin-right: 20px;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 45px;
+    box-shadow: black 0 0 0.1em,-2em -2em 0.2em 0.1em #ffe9f1;
+
+}
+h1.hegemonia{
+    color: black;
+}
+div.exp{
+    width: 1300px;
+    margin-left: -130px;
+}
+#im3_2{
+    float:left;
+    margin-top: 35px;
+    width: 540px ;
+    height: 740px ;
+    box-shadow: black 0 0 0.1em;
+}
+div.bts_do_rodape{
+    float: left;
+    height: 100%;
+    width: 100%;
+    text-align:left;
+}
+button.botao_do_rodape{
+    height:75%;
+    width: 180px;
+    background-color: #2d0f41 ;
+    border:none;
+    color: white;
+    font-size: 18px;
+    margin-left: -2px;
+    margin-right:-2px;
+    box-shadow: black 0 1px 0.1em;
+    transition: 0.2s;
+}
+#logo_rodape{
+    height: 70px;
+    float: left;
+    width: 70px;
+    object-fit: cover;
+    float:left;
+    margin-left: 80px
+ 
+}
+#inicio_rodape{
+    margin-left: 80px;
+}
+p.rodape{
+    color: white;
+    font-size: 11px;
+    float: right;
+    font-family: bebas-neue-pro, sans-serif;
+    margin-right: 15px;
+    margin-bottom: 3px;
+
+}
+button.botao_do_rodape:hover{
+    background-color: #230b33;
+}
+button.botao_do_rodape:active{
+    box-shadow: inset black 0 1px 0.1em;
+}
+div.topico6{
+    background-color:#2d0f41;
+    height: 95px;
+}
+ul.tab_alunos{
+    display: none;
+}
