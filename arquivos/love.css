@@ -25,6 +25,9 @@ div.cabecalho {
     #subref{
         margin-left: 0px;
     }
+    #pim1{
+        margin-left: 10px;
+    }
 }
 div.info1{
     width: 1300px;
