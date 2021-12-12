@@ -15,9 +15,9 @@ div.cabecalho {
     text-shadow: black 0.1em 0.1em 0.2em;
     line-height: 38px;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 760px){
     #topic1{
-        height: 1650px;
+        height: 1700px;
         color: white;
     }
 }
