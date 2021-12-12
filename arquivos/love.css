@@ -15,16 +15,15 @@ div.cabecalho {
     text-shadow: black 0.1em 0.1em 0.2em;
     line-height: 38px;
 }
-@media screen and (max-width: 760px){
+@media screen and (max-width: 768px){
     #topic1{
-        height: 1700px;
-        color: white;
+        height: 1685px;
     }
     #prebr{
-        height: 1800px;
+        height: 1900px;
     }
-    html{
-        width: 100%;
+    #subref{
+        margin-left: 0px;
     }
 }
 div.info1{
